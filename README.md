@@ -1,2 +1,2 @@
-# evanwang.github.io
+# evanwang.io
 Official website
